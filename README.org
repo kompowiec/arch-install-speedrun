@@ -42,8 +42,12 @@ arch-chroot /mnt bash -c "grub-install --target=i386-pc $DISK; grub-mkconfig -o 
 
 # Finish
 echo "Installation complete! Reboot to use the new system."
+*** Submits
+| # | Player |  RTA | LRT | Date         | Platform | Run |
+| 1 | jlxip  | 1:14 | N/A | Oct 23, 2020 | Emu      | [[https://www.youtube.com/watch?v=8utpbbdj0LQ][Run]] |
+| 2 | Kaffee | 1:16 | N/A | May 31, 2022 | Emu      | [[https://www.youtube.com/watch?v=0-uoW8zRMg4][run]] |
 ** NG+
-Perform a new Arch Linux installation using previously created configurations, scripts.
+Perform a new Arch Linux installation using previously created configurations, scripts, or backups carried over from a previous installation.  
 ** TAS (Tool-Assisted Speedrun/Superplay) 
 Use scripting tools, automation, or virtual machines to create a theoretically perfect Arch Linux installation. This could involve precise command sequences, pre-configured scripts, and debugging tools to ensure optimal performance. Manipulate "random" factors in the Arch installation process, such as download mirrors or system configurations, to achieve faster installation speeds (e.g., local mirror or preselecting certain configurations).
 * Category Extensions
@@ -51,8 +55,3 @@ Use scripting tools, automation, or virtual machines to create a theoretically p
 - Install and launch any graphical desktop environment  
 ** Old ISO%
 - Complete the installation using an outdated Arch Linux ISO and resolve any compatibility challenges that arise.  
-* glossary
-**RTA (Real Time Attack)**
-- Measure the time taken to install Arch Linux using real-world timing from booting the installation media to achieving the set goal (e.g., a working desktop environment).  
-**IGT (In Game Time)**
-- Measure the installation time based on system logs or timing utilities that calculate the duration from starting the installation script to system readiness.  
