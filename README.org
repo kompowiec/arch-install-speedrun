@@ -43,10 +43,12 @@ arch-chroot /mnt bash -c "grub-install --target=i386-pc $DISK; grub-mkconfig -o 
 # Finish
 echo "Installation complete! Reboot to use the new system."
 *** Submits
-| # | Player  |  RTA | LRT | Date         | Platform | Run |
-| 0 | Jason R | 0:54 | N/A | Mar 19, 2021 | Emu      | [[https://www.youtube.com/watch?v=5X9TWW8lXd0][Run]] |
-| 1 | jlxip   | 1:14 | N/A | Oct 23, 2020 | Emu      | [[https://www.youtube.com/watch?v=8utpbbdj0LQ][Run]] |
-| 2 | Kaffee  | 1:16 | N/A | May 31, 2022 | Emu      | [[https://www.youtube.com/watch?v=0-uoW8zRMg4][run]] |
+| # | Player  |       RTA | LRT | Date         | Platform | Run |
+| 0 | Jason R |      0:54 | N/A | Mar 19, 2021 | Emu      | [[https://www.youtube.com/watch?v=5X9TWW8lXd0][Run]] |
+| 1 | jlxip   |   0:58:10 | N/A | Oct 23, 2020 | Emu      | [[https://www.youtube.com/watch?v=8utpbbdj0LQ][Run]] |
+| 2 | Kaffee  | 01:18:06* | N/A | May 31, 2022 | Emu      | [[https://www.youtube.com/watch?v=0-uoW8zRMg4][run]] |
+
+ * - root@archiso ~ # is appeared 50 frames before counting, so assuming 30 framerate, it's 1.66 sec delay
 ** NG+
 Perform a new Arch Linux installation using previously created configurations, scripts, or backups carried over from a previous installation.  
 ** TAS (Tool-Assisted Speedrun/Superplay) 
