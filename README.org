@@ -5,11 +5,11 @@
    - VMs are allowed
    - Time starts **when the Arch Linux ISO environment is booted**, and the user gains access to the terminal. This is usually marked by the appearance of the live ISO prompt: `root@archiso ~ #`.
 2. **Submission Requirements:**  
-   - +All runs must include unedited video proof with clear visibility of commands and system output.+
+   - +All runs must include unedited video proof with clear visibility of commands and system output.+ (?)
    - include source code or a script for verification.
 * Category rules:
 ** Any%
-- Time ends on neofetch + Enter being put into terminal
+- Time ends on neofetch
 - Anything is allowed but external tools (running on another system, like SSH or AutoHotkey, curling an external script, etc)
 ** Any% Glitchless
 - Install Arch Linux from scratch as fast as possible, strictly following the Arch Wiki's official installation guide, without unconventional methods.  
@@ -43,9 +43,10 @@ arch-chroot /mnt bash -c "grub-install --target=i386-pc $DISK; grub-mkconfig -o 
 # Finish
 echo "Installation complete! Reboot to use the new system."
 *** Submits
-| # | Player |  RTA | LRT | Date         | Platform | Run |
-| 1 | jlxip  | 1:14 | N/A | Oct 23, 2020 | Emu      | [[https://www.youtube.com/watch?v=8utpbbdj0LQ][Run]] |
-| 2 | Kaffee | 1:16 | N/A | May 31, 2022 | Emu      | [[https://www.youtube.com/watch?v=0-uoW8zRMg4][run]] |
+| # | Player  |  RTA | LRT | Date         | Platform | Run |
+| 0 | Jason R | 0:54 | N/A | Mar 19, 2021 | Emu      | [[https://www.youtube.com/watch?v=5X9TWW8lXd0][Run]] |
+| 1 | jlxip   | 1:14 | N/A | Oct 23, 2020 | Emu      | [[https://www.youtube.com/watch?v=8utpbbdj0LQ][Run]] |
+| 2 | Kaffee  | 1:16 | N/A | May 31, 2022 | Emu      | [[https://www.youtube.com/watch?v=0-uoW8zRMg4][run]] |
 ** NG+
 Perform a new Arch Linux installation using previously created configurations, scripts, or backups carried over from a previous installation.  
 ** TAS (Tool-Assisted Speedrun/Superplay) 
@@ -54,4 +55,5 @@ Use scripting tools, automation, or virtual machines to create a theoretically p
 ** Desktop%
 - Install and launch any graphical desktop environment  
 ** Old ISO%
-- Complete the installation using an outdated Arch Linux ISO and resolve any compatibility challenges that arise.  
+- Complete the installation using an outdated Arch Linux ISO and resolve any compatibility challenges that arise.
+https://wiki.archlinux.org/title/User:Chrisl/Installing_Arch_Using_Old_Installation_Media 
