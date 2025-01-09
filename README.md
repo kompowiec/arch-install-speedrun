@@ -31,6 +31,12 @@
 * root@archiso ~ # is appeared 50 frames before counting, so assuming 30 framerate, it's 1.66 sec delay
 ## NG+
 + Perform a new Arch Linux installation using previously created configurations, scripts, or backups carried over from a previous installation. All **Any%** rules apply, except the restriction on fetching external scripts or configurations from outside using curl or other network-based tools.
+
+### Submits
+| # | Player     |       RTA | LRT     | Date         | Platform | Run                                         |
+|---|------------|-----------|---------|--------------|----------|---------------------------------------------|
+| 0 | kompowiec2 | 02:03.280 | 1:33:56 | 09.01.2024   | Emu      | https://www.youtube.com/watch?v=5X9TWW8lXd0 |
+
 ## TAS (Tool-Assisted Speedrun/Superplay) 
 Use scripting tools, automation, to create a theoretically perfect Arch Linux installation. This could involve precise command sequences, pre-configured scripts, and debugging tools to ensure optimal performance. Manipulate "random" factors in the Arch installation process, such as download mirrors or system configurations, to achieve faster installation speeds (e.g., local mirror or preselecting certain configurations).
 # Category Extensions
