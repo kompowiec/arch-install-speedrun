@@ -28,3 +28,5 @@ arch-chroot /mnt passwd root <<EOF
 q
 q
 EOF
+# finish
+reboot
