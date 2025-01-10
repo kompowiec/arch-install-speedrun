@@ -1,21 +1,22 @@
-# Rules:
+# Game Rules:
 1. **General Rules:**  
    - All runs must begin from the official Arch Linux ISO boot environment.  
-   - ~~All commands and actions must be shown on screen.~~ (?)
    - VMs are allowed
+2. **Timing**
    - Time starts **when the Arch Linux ISO environment is booted**, and the user gains access to the terminal. This is usually marked by the appearance of the live ISO prompt: `root@archiso ~ #`.
-2. **Submission Requirements:**  
-   - ~~All runs must include unedited video proof with clear visibility of commands and system output.~~ (?)
+   - IGT can be measure the installation time based on system logs or timing utilities that calculate the duration from starting the installation script to system readiness.
+3. **Submission Requirements:**  
+   - All runs must include unedited video proof with clear visibility of commands and system output. (?)
    - include source code or a script for verification.
 # Category rules:
 ## Any%
-- Time ends **when `neofetch` is run and its output is displayed** from within the installed Arch Linux environment **after a full reboot into the installed system**.  
-- **Any installation method is allowed** using any tools or techniques available **within the same system**.  
-- **External tools or interactions are NOT allowed**:  
-   - No SSH, VNC, or similar connections from another device or system.  
-   - No external scripts or configurations fetched from outside using `curl` or other network-based tools.  
-- The run must show a continuous video from boot to `neofetch` output without edits.  
-- The terminal input and system responses must be clearly visible throughout the run.  
+- Time ends **when `neofetch` is run and its output is displayed** from within the installed Arch Linux environment **after a full reboot into the installed system**.
+- **Any installation method is allowed** using any tools or techniques available **within the same system**.
+- **External tools or interactions are NOT allowed**:
+   - No SSH, VNC, or similar connections from another device or system.
+   - No external scripts or configurations fetched from outside using `curl` or other network-based tools.
+- The run must show a continuous video from boot to `neofetch` output without edits.
+- The terminal input and system responses must be clearly visible throughout the run.
 ## Any% Glitchless
 - Install Arch Linux from scratch as fast as possible, strictly following the Arch Wiki's official installation guide, without unconventional methods.
 ## Low% (boot%)
