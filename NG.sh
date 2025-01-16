@@ -30,3 +30,5 @@ q
 EOF
 # finish
 reboot
+
+#poinstall: systemctl enable NetworkManager --now
