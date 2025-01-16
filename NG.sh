@@ -15,7 +15,7 @@ mount ${DISK}2 /mnt
 sed -i 's/^#ParallelDownloads/ParallelDownloads/' /etc/pacman.conf
 
 # Install packages
-pacstrap /mnt base linux grub neofetch
+pacstrap /mnt base linux grub neofetch networkmanager
 if [ $? -ne 0 ]; then
   echo "Failed to install packages."; exit 1
 fi
