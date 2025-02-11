@@ -50,7 +50,6 @@ Use scripting tools, automation, to create a theoretically perfect Arch Linux in
 ## Desktop%
 - Install and launch any graphical desktop environment
 ### Submit
-https://www.youtube.com/watch?v=APMoWnooPNU
 | # | Player  |       RTA | LRT | Date         | Platform | Run |
 |---|---------|-----------|-----|--------------|----------|-----|
 | 0 | Cukmekerb's Coding Class |      07.22:813 | N/A | Jul 19, 2021 | Emu      | https://www.youtube.com/watch?v=huL4B25I4s4 |
