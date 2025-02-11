@@ -28,6 +28,7 @@
 | 0 | Jason R |      0:54 | N/A | Mar 19, 2021 | Emu      | https://www.youtube.com/watch?v=5X9TWW8lXd0 |
 | 1 | jlxip   |   0:58:10 | N/A | Oct 23, 2020 | Emu      | https://www.youtube.com/watch?v=8utpbbdj0LQ |
 | 2 | Kaffee  | 01:18:06 | N/A | May 31, 2022 | Emu      | https://www.youtube.com/watch?v=0-uoW8zRMg4 |
+
 in Kaffee root@archiso ~ # is appeared 50 frames before counting, so assuming 30 framerate, it's 1.66 sec delay
 ## NG+
 + Perform a new Arch Linux installation using previously created configurations, scripts, or backups carried over from a previous installation. All **Any%** rules apply, except the restriction on fetching external scripts or configurations from outside using curl or other network-based tools.
