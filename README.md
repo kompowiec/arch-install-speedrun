@@ -6,7 +6,7 @@
    - Time starts **when the Arch Linux ISO environment is booted**, and the user gains access to the terminal. This is usually marked by the appearance of the live ISO prompt: `root@archiso ~ #`.
    - IGT can be measure the installation time based on system logs or timing utilities that calculate the duration from starting the installation script to system readiness.
 3. **Submission Requirements:**  
-   - All runs must include unedited video proof with clear visibility of commands and system output. (?)
+   - All runs must include unedited video proof with clear visibility of commands and system output.
    - include source code or a script for verification.
 # Category rules:
 ## Any%
@@ -27,9 +27,8 @@
 |---|---------|-----------|-----|--------------|----------|-----|
 | 0 | Jason R |      0:54 | N/A | Mar 19, 2021 | Emu      | https://www.youtube.com/watch?v=5X9TWW8lXd0 |
 | 1 | jlxip   |   0:58:10 | N/A | Oct 23, 2020 | Emu      | https://www.youtube.com/watch?v=8utpbbdj0LQ |
-| 2 | Kaffee  | 01:18:06* | N/A | May 31, 2022 | Emu      | https://www.youtube.com/watch?v=0-uoW8zRMg4 |
-
-* root@archiso ~ # is appeared 50 frames before counting, so assuming 30 framerate, it's 1.66 sec delay
+| 2 | Kaffee  | 01:18:06 | N/A | May 31, 2022 | Emu      | https://www.youtube.com/watch?v=0-uoW8zRMg4 |
+in Kaffee root@archiso ~ # is appeared 50 frames before counting, so assuming 30 framerate, it's 1.66 sec delay
 ## NG+
 + Perform a new Arch Linux installation using previously created configurations, scripts, or backups carried over from a previous installation. All **Any%** rules apply, except the restriction on fetching external scripts or configurations from outside using curl or other network-based tools.
 
@@ -40,6 +39,12 @@
 
 ## TAS (Tool-Assisted Speedrun/Superplay) 
 Use scripting tools, automation, to create a theoretically perfect Arch Linux installation. This could involve precise command sequences, pre-configured scripts, and debugging tools to ensure optimal performance. Manipulate "random" factors in the Arch installation process, such as download mirrors or system configurations, to achieve faster installation speeds (e.g., local mirror or preselecting certain configurations).
+
+### Submits
+| # | Player  |       RTA | LRT | Date         | Platform | Run |
+|---|---------|-----------|-----|--------------|----------|-----|
+| 1 | Sam |      0:43 | N/A | Jul 19, 2021 | Emu      | https://www.youtube.com/watch?v=huL4B25I4s4 |
+
 # Category Extensions
 ## Desktop%
 - Install and launch any graphical desktop environment  
