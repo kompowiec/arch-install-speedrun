@@ -44,11 +44,16 @@ Use scripting tools, automation, to create a theoretically perfect Arch Linux in
 ### Submits
 | # | Player  |       RTA | LRT | Date         | Platform | Run |
 |---|---------|-----------|-----|--------------|----------|-----|
-| 1 | Sam |      0:43 | N/A | Jul 19, 2021 | Emu      | https://www.youtube.com/watch?v=huL4B25I4s4 |
+| 0 | Sam |      0:43 | N/A | Jul 19, 2021 | Emu      | https://www.youtube.com/watch?v=huL4B25I4s4 |
 
 # Category Extensions
 ## Desktop%
-- Install and launch any graphical desktop environment  
+- Install and launch any graphical desktop environment
+### Submit
+https://www.youtube.com/watch?v=APMoWnooPNU
+| # | Player  |       RTA | LRT | Date         | Platform | Run |
+|---|---------|-----------|-----|--------------|----------|-----|
+| 0 | Cukmekerb's Coding Class |      07.22:813 | N/A | Jul 19, 2021 | Emu      | https://www.youtube.com/watch?v=huL4B25I4s4 |
 ## Old ISO%
 - Complete the installation using an outdated Arch Linux ISO and resolve any compatibility challenges that arise.
 https://wiki.archlinux.org/title/User:Chrisl/Installing_Arch_Using_Old_Installation_Media 
